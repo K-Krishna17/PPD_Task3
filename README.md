@@ -103,8 +103,10 @@ This overlapping of instructions increases processor efficiency.
 1. RTL DESIGN:
 
 
+
 2. TCL CONSOLE SIMULATION:
 
+<img width="1734" height="907" alt="Image" src="https://github.com/user-attachments/assets/9121c061-8e82-47e7-8593-93dc5a6803b4" />
 
 3. SIMULATION WAVEFORM:
 
