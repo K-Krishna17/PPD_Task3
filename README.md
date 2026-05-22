@@ -108,4 +108,4 @@ This overlapping of instructions increases processor efficiency.
 
 3. SIMULATION WAVEFORM:
 
-
+<img width="1914" height="822" alt="Image" src="https://github.com/user-attachments/assets/4c632bfb-7b25-4b33-8e7f-68cfb9ac39fc" />
