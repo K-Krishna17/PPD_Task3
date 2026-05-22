@@ -27,7 +27,7 @@ and verify its functionality through simulation showing the operation of each pi
 
 -> A pipelined processor divides instruction execution into stages so multiple instructions execute simultaneously in different stages.
 
-4 Stages Used:
+#4 Stages Used:
 
 | Stage   | Name                    | Function                                  |
 | ------- | ----------------------- | ----------------------------------------- |
@@ -36,7 +36,7 @@ and verify its functionality through simulation showing the operation of each pi
 | Stage 3 | EX (Execute)            | Perform ALU operation/address calculation |
 | Stage 4 | WB (Write Back)         | Store result back into register           |
 
-Major Blocks:
+#Major Blocks:
 
 -> Program Counter (PC)
 
@@ -51,7 +51,7 @@ Major Blocks:
 -> Write Back Unit
 
 
-Data Flow:
+#Data Flow:
 
 -> Instruction fetched from memory.
 
@@ -62,7 +62,7 @@ Data Flow:
 -> Result written back to register.
 
 
-Registers:
+#Registers:
 
 Pipeline registers store intermediate data between stages.
 
@@ -73,7 +73,7 @@ Pipeline registers store intermediate data between stages.
 | EX/WB    | Execute and Write Back |
 
 
-Observations:
+#Observations:
 
 Cycle 1
 
